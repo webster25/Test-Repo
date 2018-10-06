@@ -6,4 +6,5 @@ Blue
 Red
 Orange
 Green
+Yellow
 These are colors.
